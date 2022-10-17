@@ -1,0 +1,94 @@
+1.What is Cloud?
+2.What is High Availablity?
+3.What is Scalability?
+4.What is Elasticity?
+5.what do you mean by global reach?
+6.What is Agility?
+7.What is disaster Recovery?
+8.What is fault tolerance?
+9.Difference between scalability and elasticity?
+10.What do you mean by predictive cost consideration in cloud? 
+11.What are the important characteristics 0f cloud?
+12.What is economics of scale?
+13.Whats is capital expenditure and operational explanation?
+14.Explain the types of service model in cloud.
+15.Differnce between infrastructure IaaS, PaaS and SaaS
+16.What is upfront cost?
+17.Explain the managment responsibility of Iaas, PaaS, SaaS
+18.Explain types of cloud in Azure.
+19.Explain difference between public, private and hybrid
+
+20. What is region ?
+21. What are the avalablity zones ?
+22. Difference between region and avalablity zones?
+
+23.What is resource group in Azure?
+24.What is Azure resource manager?
+25.What is storage account ?
+26.Explain all types of storage account
+
+
+27.What is virtual network in Azure?
+28.What is load balancer?
+29.Explain the differnce between internal and public load balancer.
+30.What is subnet?
+31.What is IP address?
+32.What is difference between public ip and private ip?
+
+
+33. What is VPN Gateway?
+34. What is Azure application gateway?
+35. What is CDN?
+
+
+36.What is ADLA?
+37.What is serverless computing? Explian its benifits.
+38.What is Azure SQL data warehoouse?
+39.What is Azure function?
+40.What is Azure logic apps?
+
+41.What is devops?
+42.What is Azure devops?
+43.Explian all the services in Azure portal.
+
+44.What is NSG? Explain its features
+45.What is azure firewall? Explain its features
+46.What is Azure DDOS?
+47.What is application security group?
+48.What is defence in depth? Explain it
+
+
+49.What is differnce between authentication and authorization?
+50.What is Azure AD?
+51.What is MFA in azure?
+
+52.What is Azure security centre?
+53.Wgat is key vault?
+54.What is AIP?
+55.What is Azure policy?
+56.What is RBAC?
+57.What is Azure blueprints?
+58.What is Azure monitor?
+59.What are the differnet types of locks available in Azure?
+60.What is activity log?
+
+61.What is Azure subscription?
+62.What is management group in Azure?
+63.What is object hierarchy?
+64.What are the factors affecting the cost in Azure?
+65.What are the zones available in Azure?
+66.What is pricing calculator?
+67.What is Azure cost magaement?
+68.How to minimize  the cost in Azure?
+
+
+
+
+
+
+
+
+
+ 
+
+
